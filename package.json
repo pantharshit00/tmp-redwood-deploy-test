@@ -17,7 +17,7 @@
     "yarn": ">=1.15"
   },
   "resolutions": {
-    "@prisma/cli": "2.9.0",
-    "@prisma/client": "2.9.0"
+    "@prisma/cli": "2.8.1",
+    "@prisma/client": "2.8.1"
   }
 }
