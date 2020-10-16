@@ -15,5 +15,9 @@
   "engines": {
     "node": ">=12",
     "yarn": ">=1.15"
+  },
+  "resolutions": {
+    "@prisma/cli": "2.9.0",
+    "@prisma/client": "2.9.0"
   }
 }
